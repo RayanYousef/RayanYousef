@@ -1,7 +1,9 @@
+<p style="text-align: center;"><br />
+<span style="color:#3498db;"># 👋Helloo, I&#39;m Rayan Yousef👋</span></p>
 
-# 👋Helloo, I'm Rayan Yousef👋
+<p style="text-align: center;"><br />
+&nbsp;I am a passionate game programmer from Egypt.<br />
+<br />
+I have a strong drive for constantly challenging myself, and I&#39;m always on the lookout for new and exciting challenges that can push my skills to the limit.</p>
 
-<p  align="center" S=15>
- I am a passionate game programmer from Egypt.
-</p>
-I have a strong drive for constantly challenging myself, and I'm always on the lookout for new and exciting challenges that can push my skills to the limit.
+<p>&nbsp;</p>
