@@ -8,7 +8,6 @@
 
  ## Network Ninja (EG-Cert Project)
  https://github.com/RayanYousef/NetworkNinja_Showcase
-<br/>
-## My Work: <br />
+## My Work:
 https://drive.google.com/drive/u/1/folders/1CqzKtGuh8jMRbrLOHSu0AKYBbw5PKumF
 
