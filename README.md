@@ -11,9 +11,9 @@ https://drive.google.com/drive/u/1/folders/1CqzKtGuh8jMRbrLOHSu0AKYBbw5PKumF
 
 ## Awards:
 •	5th Place, We Innovate Hackathon LINK: 
-“Network Ninja” A Serious Game Focused on Cyber Security Aspects.
+“Network Ninja” A Serious Game Focused on Cyber Security Aspects.<br/>
 https://www.weinnovate.me/winners-2023
 
 •	1ST PLACE, WE INNOVATE HACKATHON LINK: 
-“TechQuest” Integrates AI For An Entertaining And Educational Gaming Experience.
+“TechQuest” Integrates AI For An Entertaining And Educational Gaming Experience.<br/>
 https://lablab.me/event/gaming-hackathon/hash-include-ai/techquest-a-journey-through-the-lost-world
