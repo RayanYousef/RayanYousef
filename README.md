@@ -11,28 +11,30 @@ My learning journey began in 2017 as a hobbyist, and in 2022, I joined the [ITI 
 
 I am constantly seeking new challenges and opportunities in game development. If you have exciting ideas or projects that require creativity and innovation, don’t hesitate to get in touch!
 
-<h1><p align="center"">
-  <a href="https://rayan-yousef.webnode.page"">Check out my portfolio</a><h1>
-</p>
+<h1 align="center">
+  <a href="https://rayan-yousef.webnode.page" style="text-decoration: none; color: inherit;">Check out my portfolio</a>
+</h1>
 
 <h3 align="left">Connect with me:</h3>
+
 <div style="margin-bottom: 15px;">
-  <span>Email: </span>
+  <strong>Email:</strong>
   <a href="mailto:RayanYoussef1993@gmail.com" style="margin-left: 10px;">RayanYoussef1993@gmail.com</a>
 </div>
+
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
-  <a href="https://www.linkedin.com/in/rayan-yousef/" target="blank">
+  <a href="https://www.linkedin.com/in/rayan-yousef/" target="blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/rayan-yousef/" target="blank" style="margin-left: 10px;">rayan-yousef</a>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 15px;">
-  <a href="https://discord.gg/rayan_1431" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/rayan_1431" target="blank" style="margin-left: 10px;">rayan_1431</a>
+  <a href="https://www.linkedin.com/in/rayan-yousef/" target="blank">rayan-yousef</a>
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <a href="https://discord.gg/rayan_1431" target="blank" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/rayan_1431" target="blank">rayan_1431</a>
+</div>
 
 
 
