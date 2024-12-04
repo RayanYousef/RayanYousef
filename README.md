@@ -3,9 +3,7 @@
 **I’m Rayan Yousef, an addicted game programmer with a strong interest in game development.
 Currently, I’m fascinated by the possibilities of AI in games and educational games, exploring how it can create engaging and innovative experiences.** 
 
-**My most recent AI project:**
-
-https://github.com/RayanYousef/My-Learning-Voyage/tree/Language-AI-Assistant?tab=readme-ov-file
+**My most recent AI project:**                                                              https://github.com/RayanYousef/My-Learning-Voyage/tree/Language-AI-Assistant?tab=readme-ov-file
 
 My learning journey began in 2017 as a hobbyist, and in 2022, I joined the [ITI Information Technology Institute](https://iti.gov.eg/about-us) to turn my passion into a full-time career. 
 [ITI Course Content](https://rgateway.iti.gov.eg/Resources/Resources/GetResourceFile?PublicId=d30e0a2b-906d-44f8-9bf7-09a71bfccca7&Size=)
