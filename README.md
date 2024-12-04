@@ -24,7 +24,7 @@ I am constantly seeking new challenges and opportunities in game development. If
 </div>
 
 <p align="center" style="margin-top: 30px;">
-  <a href="https://rayan-yousef.webnode.page" target="blank" style="text-decoration: none; color: inherit; font-size: 24px;">Check out my portfolio</a>
+  <a href="https://rayan-yousef.webnode.page" target="blank" style="text-decoration: none; color: inherit; font-size: 50px;">Check out my portfolio</a>
 </p>
 
 
