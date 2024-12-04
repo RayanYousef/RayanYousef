@@ -10,6 +10,11 @@ My learning journey began in 2017 as a hobbyist, and in 2022, I joined the [ITI 
 [ITI Course Content](https://rgateway.iti.gov.eg/Resources/Resources/GetResourceFile?PublicId=d30e0a2b-906d-44f8-9bf7-09a71bfccca7&Size=)
 
 I am constantly seeking new challenges and opportunities in game development. If you have exciting ideas or projects that require creativity and innovation, don’t hesitate to get in touch!
+
+<h1><p align="center"">
+  <a href="https://rayan-yousef.webnode.page"">Check out my portfolio</a><h1>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <div style="margin-bottom: 15px;">
   <span>Email: </span>
@@ -29,9 +34,6 @@ I am constantly seeking new challenges and opportunities in game development. If
 </div>
 
 
-<h1><p align="center"">
-  <a href="https://rayan-yousef.webnode.page"">Check out my portfolio</a><h1>
-</p>
 
 
 
