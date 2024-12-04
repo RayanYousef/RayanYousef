@@ -16,14 +16,13 @@ I am constantly seeking new challenges and opportunities in game development. If
   <a href="https://www.linkedin.com/in/rayan-yousef/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <span style="margin-left: 10px;">LinkedIn: <a href="https://www.linkedin.com/in/rayan-yousef/" target="blank">rayan-yousef</a></span>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://discord.gg/rayan_1431" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
-  <span style="margin-left: 10px;">Discord: <a href="https://discord.gg/rayan_1431" target="blank">rayan_1431</a></span>
 </div>
+
 
 <!-- Profile views counter with spacing -->
 <p align="center" style="margin-top: 30px;"> 
