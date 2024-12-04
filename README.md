@@ -25,7 +25,9 @@ I am constantly seeking new challenges and opportunities in game development. If
   <span style="margin-left: 10px;">Discord: <a href="https://discord.gg/rayan_1431" target="blank">rayan_1431</a></span>
 </div>
 
+<!-- Added spacing -->
+<div style="margin-top: 20px;">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=RayanYousef&label=Profile%20views&color=0e75b6&style=flat" alt="RayanYousef"/> </p>
+</div>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RayanYousef&label=Profile%20views&color=0e75b6&style=flat" alt="RayanYousef"/> </p>  
 
