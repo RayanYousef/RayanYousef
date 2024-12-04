@@ -1,6 +1,4 @@
 
-[Check out my portfolio](https://rayan-yousef.webnode.page)
-
 ## 👋Helloo there, I'm Rayan Yousef👋
 **I’m Rayan Yousef, an addicted game programmer with a strong interest in game development.
 Currently, I’m fascinated by the possibilities of AI in games and educational games, exploring how it can create engaging and innovative experiences.** 
@@ -12,6 +10,7 @@ My learning journey began in 2017 as a hobbyist, and in 2022, I joined the [ITI 
 
 I am constantly seeking new challenges and opportunities in game development. If you have exciting ideas or projects that require creativity and innovation, don’t hesitate to get in touch!
 <h3 align="left">Connect with me:</h3>
+[Check out my portfolio](https://rayan-yousef.webnode.page)
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://www.linkedin.com/in/rayan-yousef/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -28,7 +27,7 @@ I am constantly seeking new challenges and opportunities in game development. If
 
 
 <!-- Profile views counter with spacing -->
-<p align="center" style="margin-top: 30px;"> 
+<!--<p align="center" style="margin-top: 30px;"> 
   <img src="https://komarev.com/ghpvc/?username=RayanYousef&label=Profile%20views&color=0e75b6&style=flat" alt="RayanYousef"/> 
 </p>
 
