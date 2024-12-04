@@ -24,6 +24,7 @@ I am constantly seeking new challenges and opportunities in game development. If
   <a href="https://discord.gg/rayan_1431" target="blank" style="margin-left: 10px;">rayan_1431</a>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <span>Email: </span>
   <a href="mailto:RayanYoussef1993@gmail.com" style="margin-left: 10px;">RayanYoussef1993@gmail.com</a>
 </div>
 
