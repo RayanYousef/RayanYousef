@@ -12,22 +12,23 @@ My learning journey began in 2017 as a hobbyist, and in 2022, I joined the [ITI 
 
 I am constantly seeking new challenges and opportunities in game development. If you have exciting ideas or projects that require creativity and innovation, don’t hesitate to get in touch!
 <h3 align="left">Connect with me:</h3>
-<div style="display: flex; align-items: center;">
-  <a href="https://www.linkedin.com/in/rayan-yousef/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <a href="https://www.linkedin.com/in/rayan-yousef/" target="blank" style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" style="margin-right: 10px;" />
+    <span>LinkedIn: <a href="https://www.linkedin.com/in/rayan-yousef/" target="blank">rayan-yousef</a></span>
   </a>
-  <span style="margin-left: 10px;">LinkedIn: <a href="https://www.linkedin.com/in/rayan-yousef/" target="blank">rayan-yousef</a></span>
 </div>
-<div style="display: flex; align-items: center; margin-top: 5px;">
-  <a href="https://discord.gg/rayan_1431" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <a href="https://discord.gg/rayan_1431" target="blank" style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="30" style="margin-right: 10px;" />
+    <span>Discord: <a href="https://discord.gg/rayan_1431" target="blank">rayan_1431</a></span>
   </a>
-  <span style="margin-left: 10px;">Discord: <a href="https://discord.gg/rayan_1431" target="blank">rayan_1431</a></span>
 </div>
 
-<!-- Adjusted spacing -->
-<p align="left" style="margin-top: 20px;"> 
+<!-- Profile views counter with spacing -->
+<p align="left" style="margin-top: 30px;"> 
   <img src="https://komarev.com/ghpvc/?username=RayanYousef&label=Profile%20views&color=0e75b6&style=flat" alt="RayanYousef"/> 
 </p>
+
 
 
