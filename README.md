@@ -22,11 +22,9 @@ I am constantly seeking new challenges and opportunities in game development. If
   </a>
   <a href="https://discord.gg/rayan_1431" target="blank" style="margin-left: 10px;">rayan_1431</a>
 </div>
-
- <p align="center" font-size = "50"">
-  <a href="https://rayan-yousef.webnode.page" target="blank"">Check Out My Portfolio</a>
+<p style="font-size: 24px; text-align: center;">
+  <a href="https://rayan-yousef.webnode.page" target="_blank">Check Out My Portfolio</a>
 </p>
-
 
 
 
