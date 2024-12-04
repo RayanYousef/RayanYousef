@@ -1,4 +1,4 @@
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RayanYousef&label=Profile%20views&color=0e75b6&style=flat" alt="RayanYousef" /> </p>  
 
 ## 👋Helloo there, I'm Rayan Yousef👋
 **A passionate and dedicated game programmer, deeply in love with the world of programming and game development.** My learning adventure began in 2017 when I discovered the joy of creating games as a hobby. In 2022, I joined the [ITI (Information Technology Institute)](https://iti.gov.eg/about-us) to further develop my skills and pursue a career in game development.
