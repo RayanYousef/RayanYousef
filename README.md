@@ -14,7 +14,7 @@ My learning journey began in 2017 as a hobbyist, and in 2022, I joined the [ITI 
 I am constantly seeking new challenges and opportunities in game development. If you have exciting ideas or projects that require creativity and innovation, don’t hesitate to get in touch!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rayan-yousef/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rayan-yousef/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rayan-yousef/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rayan-yousef/" height="30" width="40" /></a>
 <a href="https://discord.gg/rayan_1431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hosh#6586" height="30" width="40" /></a>
 </p>
 
